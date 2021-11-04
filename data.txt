@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <meta charset="utf-8">
+
+    <title>东方财富网投资者互动平台：构建投资者与上市公司之间便捷的互动渠道。</title>
+    <meta name="keywords" content="东方财富网，投资者，投资者互动，互动，互动平台，投资者互动平台，上市公司">
+    <meta name="description" content="东方财富网，投资者，投资者互动，互动，互动平台，投资者互动平台，上市公司">
+            <meta name="mobile-agent" content="format=html5; url=//mguba.eastmoney.com/mguba/list/300750">
+
+            <link rel="canonical" href="/list,300750.html" />
+
+
+            <link rel="stylesheet" href="//gbfek.dfcfw.com/deploy/guba_web_qa/work/qa_search.css?r=212" />
+
+    
+    <base target="_blank" />
+</head>
+<body class="hlbody">
+    <style>
+    #topnav .guba_topic {
+        height: 38px;
+    }
+
+    #topnav .gubatopic {
+        top: 35px;
+        left: -20px;
+    }
+
+        #topnav .gubatopic li {
+            background: #fff !important;
+            float: left;
+            line-height: 30px;
+        }
+</style>
+<div id="header">
+    <!-- 微信分享img -->
+    <img id="weixin-share" src="//cmsjs.eastmoney.com/common/weixin-share.png" style="position: absolute; width: 0; height: 0; left: -1000px;z-index: -1;">
+    <div class="gbbody" id="headergbbody">
+        <ul id="topnav">
+            <li class="user_info dfcfw" tracker-eventcode="gb_xgbsy_ zdh_djdfcf">
+                <a href="//www.eastmoney.com/" target="_blank">东方财富网</a>
+                <em class="trg icon_down_s"></em>
+                <ul class="slide_down dc_site">
+                    <li><a href="//zqhd.eastmoney.com/Html/aghd/pc/20170918/html/activity2.html">移动客户端</a></li>
+                    <li><a href="//fund.eastmoney.com">天天基金网</a></li>
+                    <li><a href="//zqhd.eastmoney.com/index.html?ad_id=web_kh_dcsy_jycdl_01_01_01_1">东方财富证券</a></li>
+                    <li><a href="//www.eastmoneyfutures.com/kh/index.html">东方财富期货</a></li>
+                    <li><a href="//choice.eastmoney.com">choice数据</a></li>
+                    <li><a href="/">股吧</a></li>
+                </ul>
+            </li> |
+            <li tracker-eventcode="gb_xgbsy_zdh_djgbsy"><a href="/" target="_blank">股吧首页</a></li>
+            <li tracker-eventcode="gb_xgbsy_zdh_djjjb"><a href="/jj.html">基金吧</a></li>
+
+            <li tracker-eventcode="gb_xgbsy_zdh_djgbft"><a href="/fangtan/" target="_blank">大家谈</a></li>
+            <li class="guba_topic user_info" tracker-eventcode="gb_xgbsy_zdh_djgbht">
+                <a href="//gubatopic.eastmoney.com/" target="_blank">话题</a>
+                <em class="trg icon_down_s"></em>
+                <ul class="slide_down gubatopic">
+                    <li><a href="//gubatopic.eastmoney.com/">股吧话题</a></li>
+                    <li><a href="//gubatopic.eastmoney.com/jj">基金吧话题</a></li>
+                </ul>
+            </li>
+
+
+            <li tracker-eventcode="gb_xgbsy_zdh_djwdm"><a href="/qa/qa_list.aspx" target="_blank">问董秘</a></li>
+            <li tracker-eventcode="gb_xgbsy_zdh_djrfb"><a href="/rank" target="_blank">人气榜</a></li>
+            
+            
+        </ul>
+        <!-- 功能废弃2017-06-08 -->
+        <!-- <form method="GET" action="" id="topnavsearch" target="_blank">
+            <input type="text" name="" id="topnavskey" placeholder="搜索 股票/讨论/用户" autocomplete="off" /><input type="submit" value=" " id="topnavsubmit" title="点击开始搜索" tracker-eventcode="iguba_topbar_search_topbarS"/>
+            <div id="topnavsearchre">
+                <ul ></ul>
+            </div>
+        </form> -->
+        <ul id="topnavper">
+            <li class="topbarhaslogin" id="topbarloginuserdiv" style="display:none;">
+                <span class="headerusername tnavsel">
+                    <em class="userhead"></em>
+                    <span class="username"></span>
+                    <em class="tnavselic"></em>
+                    <div class="topnavdown">
+                        <!-- <div class="topnavdownt">设置<em class="tnavselid"></em></div> -->
+                        <ul class="topnavdownul">
+                            <li><a href="//passport2.eastmoney.com/pub/basicinfo" target="_blank">个人设置</a></li>
+                            <li><a href="//passport2.eastmoney.com/pub/changepassword" target="_blank">修改密码</a></li>
+                            <li><a href="http://iguba.eastmoney.com/setting/privacy" target="_blank">隐私设置</a></li>
+                            <li><a href="http://iguba.eastmoney.com/setting/message" target="_blank">消息设置</a></li>
+                            <li><a href="//v2.eastmoney.com" target="_blank">V认证</a></li>
+                            <li><a href="//i.eastmoney.com/qianbao.html" target="_blank">我的钱包</a></li>
+                            <li class="nobg"><a href="javascript:;" target="_self" id="topbarlogoutlink">退出</a></li>
+                        </ul>
+                    </div>
+                </span>
+            </li>
+            <li class="topbarhaslogin" style="display:none;">
+                <span class="tnavsel">
+                    <a href="//i.eastmoney.com"><em class="top_name">我的股吧</em></a><em class="tnavselic"></em>
+                    <div class="topnavdown">
+                        <!-- <div class="topnavdownt">设置<em class="tnavselid"></em></div> -->
+                        <ul class="topnavdownul">
+                            <li><a href="//i.eastmoney.com">我关注的股</a></li>
+                            <li><a href="//i.eastmoney.com">我关注的人</a></li>
+                            <li><a href="//i.eastmoney.com/myarts">我的发言</a></li>
+                            <li><a href="//i.eastmoney.com/collection">我的收藏</a></li>
+                        </ul>
+                    </div>
+                </span>
+            </li>
+
+            <li class="topbarhaslogin" style="display:none;">
+                <span class="tnavsel">
+                    <em class="top_name my_msg">我的消息<i></i></em><em class="tnavselic"></em>
+                    <div class="topnavdown">
+                        <!-- <div class="topnavdownt">消息<em class="tnavselid"></em></div> -->
+                        <ul class="topnavdownul topnavdownulmsgul">
+                            <li><a href="//i.eastmoney.com">我关注的股</a></li>
+                            <li><a href="//i.eastmoney.com">我关注的人</a></li>
+                            <li><a href="//i.eastmoney.com/myarts">我的发言</a></li>
+                            <li><a href="//i.eastmoney.com/collection">我的收藏</a></li>
+                            <li><a id="my_wdmsg" href="//i.eastmoney.com/myinfo">&nbsp;&nbsp;查看问答消息<em></em></a></li>
+
+                        </ul>
+                    </div>
+                </span>
+            </li>
+        </ul>
+    </div>
+</div>
+<script>
+    window.shimingOption = 2;
+</script>
+    
+
+<script>
+    var pagetype = 'qa_search';
+    var barcode = "300750";
+    var code = "300750";
+    var page = "0";
+    var stockname = "宁德时代";
+    var RelatedCode = "";
+    var RelatedName = "";
+    var OuterCode = "300750";
+    var Category = "100";
+    var Division = "1";
+    var Market = "101";
+    var Type = "202";
+    var QuoteCode = "3007502";
+    var BarType = "0";
+    var CodeWithMarket = "300750.sz";
+    var qq_code = "";
+    var qq_code2 = "";
+    var IsStockA = "True";
+    var marketCode = "sz300750";
+</script>
+
+
+<div id="qabody" class="qabody">
+    <div id="headerban" class="headerban">
+        <!-- 搜索模块 -->
+    </div>
+    <div id="header_hq" class="header_hq">
+        <!--我要问董秘-->
+    </div>
+    <div id="mainbody" class="mainbody">
+        <div id="qa_post" class="qa_post">
+            <!--我要问董秘-->
+        </div>
+        <div id="mainbody" class="mainbody">
+            <div id="qa_tab" class="qa_tab">
+                <ul>
+                    <li class=qa_tab_on><a href="/qa/search?type=1&code=300750" target="_self">最新答复</a></li>
+                    <li class=><a href="/qa/search?type=2&code=300750" target="_self">传闻求证</a></li>
+                    <li class=><a href="/qa/search?type=3&code=300750" target="_self">公司发布</a></li>
+                </ul>
+                <div id="btn_qa" class="btn_qa">我要问董秘</div>
+            </div>
+            <div id="qa_list_content" class="qa_list_content">
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1072953286.html" target="_blank">
+                                                <div class="qa_question_text">
+
+宁德时代股友：您好，请问公司6月通知说7月要发布相关钠离子电池的公告，现在进度如何了，有没有一个时间节点和预期
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1072953286.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，公司发布了第一代钠离子电池，感谢您的关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-08-18 18:12:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1072953286" data-read="869" data-comment="0" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1061672555.html" target="_blank">
+                                                <div class="qa_question_text">
+
+股友8PYfLo：你好，股东大会讲，7月能推出来钠离子电池，但是到现在都还没有？原因是什么？
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1061672555.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，公司已发布了第一代钠离子电池，感谢您的关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-08-18 18:12:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1061672555" data-read="1162" data-comment="1" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1072951745.html" target="_blank">
+                                                <div class="qa_question_text">
+
+宁德时代股友：请问何时出二季度报？
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1072951745.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，公司半年报将于2021年8月26日披露，感谢您的关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-08-18 18:09:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1072951745" data-read="753" data-comment="0" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1054495699.html" target="_blank">
+                                                <div class="qa_question_text">
+
+流云庄上逸云堂：公司大宗交易频繁，是否有机构原始股东减持？公司为何不公告？
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1054495699.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，目前公司未收到关于减持计划的通知，具体请关注公司公告，感谢您的关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-08-18 18:09:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1054495699" data-read="388" data-comment="0" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1054586166.html" target="_blank">
+                                                <div class="qa_question_text">
+
+天堂左我右：请问公司是否与沧州明珠有合作，谢谢告知
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1054586166.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，供应商情况请以公司公告为准，感谢您的关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-08-18 18:08:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1054586166" data-read="285" data-comment="0" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1072951789.html" target="_blank">
+                                                <div class="qa_question_text">
+
+宁德时代股友：有新闻报道说宁德时代的钠离子电池将在7月份发布，请问是否属实？谢谢！
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1072951789.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，公司发布了第一代钠离子电池，感谢您的关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-08-18 18:07:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1072951789" data-read="394" data-comment="0" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1056710737.html" target="_blank">
+                                                <div class="qa_question_text">
+
+牛散来了啊：请问贵公司的钠电池什么时候正式发布?钠电池目前进展如何?
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1056710737.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，公司发布了第一代钠离子电池，感谢您的关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-08-18 18:07:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1056710737" data-read="234" data-comment="0" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1072949944.html" target="_blank">
+                                                <div class="qa_question_text">
+
+宁德时代股友：请问，贵公司为何没有提前披露半年报业绩。
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1072949944.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，公司半年报将于2021年8月26日披露，感谢您的关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-08-18 18:02:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1072949944" data-read="661" data-comment="1" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1064068916.html" target="_blank">
+                                                <div class="qa_question_text">
+
+此股民无名：请问常铝股份铝箔小样通过贵公司检测了吗
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1064068916.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，公司的供应商情况请以公告为准，感谢您的关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-08-18 18:02:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1064068916" data-read="243" data-comment="0" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1072949976.html" target="_blank">
+                                                <div class="qa_question_text">
+
+宁德时代股友：预告上半年业绩增长幅度？
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1072949976.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，公司半年报将于2021年8月26日披露，感谢您的关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-08-18 18:01:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1072949976" data-read="416" data-comment="0" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1072948083.html" target="_blank">
+                                                <div class="qa_question_text">
+
+宁德时代股友：董秘，请问截止今日，股东人数多少？谢谢
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1072948083.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，请您致电董事会办公室0593-8901666，感谢您的关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-08-18 17:57:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1072948083" data-read="868" data-comment="1" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1072948176.html" target="_blank">
+                                                <div class="qa_question_text">
+
+宁德时代股友：听说公司最近调研了马云投资的华数传媒，是不是打算收购华数传媒？
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1072948176.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，感谢您的关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-08-18 17:54:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1072948176" data-read="309" data-comment="0" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1072948075.html" target="_blank">
+                                                <div class="qa_question_text">
+
+宁德时代股友：你好！！公司应用钠电池的负极硬碳是否贝特瑞供货。谢谢！
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1072948075.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，公司供应商情况请以公告为准，感谢关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-08-18 17:54:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1072948075" data-read="574" data-comment="0" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1065744149.html" target="_blank">
+                                                <div class="qa_question_text">
+
+天堂左我右：请问公司的锂电隔膜是沧州明珠生产的吗？
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1065744149.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，公司供应商情况请以公告为准，感谢关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-08-18 17:54:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1065744149" data-read="190" data-comment="0" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+                            <div class="qa_list_item">
+                               
+                                    <div class="avatar">
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_code icon icon_stock_bg">300750</div>
+                                        </a>
+                                        <a href="/list,300750.html" target="_blank">
+                                            <div class="avatar_name">宁德时代</div>
+                                        </a>
+</div>
+                                    
+                                    <div class="qa_content">
+                                        <div class="qa_question">
+                                            <div class="icon icon_question_small"></div>
+                                            <a href="/news,300750,1032509958.html" target="_blank">
+                                                <div class="qa_question_text">
+
+宁德时代股友：公司为何事故频发?连续爆炸两次了，第三次会远吗?建议全面停产检修
+                                                </div>
+                                            </a>
+
+                                        </div>
+
+                                        <div class="qa_answer">
+                                            <div class="icon icon_answer_small"></div>
+                                            <a href="/news,300750,1032509958.html" target="_blank">
+                                                <div class="qa_answer_text">
+
+                                                    <div class="icon_arrow_left"></div>
+                                                    <p>
+宁德时代：投资者您好，公司已要求各单位严格落实安全责任，进行隐患排查，保障后续安全生产，感谢您的关注。
+                                                    </p>
+                                                    <div class="qa_answer_date">
+                                                            <span class="szqa">来自深交所互动易 </span>
+                                                        2021-05-10 17:47:00
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="qa_social_btn" data-code="300750" data-postid="1032509958" data-read="1748" data-comment="2" data-iscollected="false">
+                                        </div>
+                                        <div class="reply_wrap"></div>
+                                    </div>
+                                    <div class="clear"></div>
+</div>
+            </div>
+                <div id="qa_list_more" class="qa_list_more">点击加载更多</div>
+        </div>
+    </div>
+
+    <div id="qa_sider" class="qa_sider">
+        <div id="my_qa" class="my_qa"><!-- 我的问题 --></div>
+        <div id="qa_rank" class="qa_rank"><!-- 近10日沪市董秘回复排行 --></div>
+    </div>
+
+    <div style="color: #888888; padding: 10px 0 0 0; clear: both; line-height: 120%;">
+        提示：用户在社区发表的所有资料、言论等仅仅代表个人观点，与本网站立场无关，不对您构成任何投资建议。用户应基于自己的独立判断，自行决定证券投资并承担相应风险。<a href="//about.eastmoney.com/home/disclaimer" target="_blank">《免责声明》</a>
+    </div>
+</div>
+<div class="clear"></div>
+
+<script src="//gbfek.dfcfw.com/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="//emcharts.dfcfw.com/suggest/stocksuggest2017.min.js"></script>
+    <script src="//gbfek.dfcfw.com/deploy/guba_web_qa/work/qa_search.js?r=212"></script>
+
+<script type="text/javascript" charset="UTF-8">
+    try {
+        var emtj_isUpload = 1;
+        var emtj_pageId = 117001302375;
+        var emtj_startTime = new Date().getTime();
+        var emtj_logSet = "1100000000";
+        var emtj_sampleRate = 100;
+    } catch (err) {
+        console.log(err);
+    }
+</script>
+<script type="text/javascript" src="//bdstatics.eastmoney.com/web/prd/jump_tracker.js" charset="UTF-8"></script>
+<script type="text/javascript" src="//emcharts.dfcfw.com/usercollect/usercollect.min.js" charset="utf-8"></script>
+
+
+    
+    <!-- footer-2016 -->
+<style>
+    .footer2016 ul {list-style: none;margin: 0;padding: 0;}
+    .footer2016 a:hover{color:#ff4901 !important;text-decoration: underline !important;}
+    .footer2016 .icon, .footer2016 .navlist li a {display: inline-block;}
+    .footer2016 .icon {background-image: url(//g1.dfcfw.com/g4/202005/20200513165332.png);background-repeat: no-repeat;}
+    .footer2016 {margin: 0 auto;clear: both;width: 1000px;line-height: 1.1;_line-height: 1.2;font-family: simsun;font-size: 12px;border-top: 2px solid #2F5895;}
+    .footer2016 .footertg {background-color: #F3F3F3;float: left;width: 100%;padding: 12px 0 0;height: 140px;}
+    .footer2016 .footertg a:link, .footer2016 .footertg a:visited {color: #676767;text-decoration: none;}
+    .footer2016 .qr {float: left;width: 80px;height: 140px;line-height: 150%;padding: 0 10px 0 8px;}
+    .footer2016 .qr .t {font-weight: 700;font-size: 14px;padding-bottom: 10px;}
+    .footer2016 .icon_qrem80, .footer2016 .icon_qrjj80 {background-image: url(//g1.dfcfw.com/g2/201607/20160728133707.png);width: 80px;height: 80px;}
+    .footer2016 .icon_qrem80 {background-position: 0 -330px;}
+    .footer2016 .icon_emwxqr, .footer2016 .icon_jjwxqr {background-image: url(//g1.dfcfw.com/g2/201607/20160728133707.png);width: 86px;height: 106px;}
+    .footer2016 .icon_emwxqr {background-position: -90px 0;}
+    .footer2016 .ftglist ul li.qrli {position: relative;}
+    .footer2016 .ftglist ul li.qrli:hover .icon_qr, .footer2016 .scl-news .name a {display: block;}
+    .footer2016 .icon_emwxqr, .footer2016 .icon_jjwxqr {display: none;position: absolute;left: 0;top: 24px;}
+    .footer2016 .ftglist {float: left;height: 140px;padding: 0px 10px;}
+    .footer2016 .ftglistt {font-size: 14px;font-weight: 700;line-height: 130%;padding-bottom: 6px;text-align: left;}
+    .footer2016 .ftglist ul li {padding: 5px 0;color: #676767;text-align: left;}
+    .footer2016 .icon_wb {background-position: -24px 0;width: 14px;height: 12px;}
+    .footer2016 .icon_wx {background-position: 0 0;width: 14px;height: 11px;}
+    .footer2016 .icon_note {background-position: -47px 0;width: 13px;height: 11px;}
+    .footer2016 .ftglist .icon {vertical-align: -1px;margin-right: 2px;}
+    .footer2016 .footertg a:link, .footer2016 .footertg a:visited {color: #676767;text-decoration: none;}
+    .footer2016 .qrl {border-left: 1px solid #ddd;margin-left: 10px;padding-left: 20px;}
+    .footer2016 .icon_qrjj80 {background-position: -90px -330px;}
+    .footer2016 .footercr {clear: both;text-align: center;line-height: 26px;font-size: 12px;width:1000px;margin: 0 auto;height:26px;overflow:hidden;}
+    .footer2016 .icon_icp {background-position: -24px -21px;width: 15px;height: 17px;}
+    .footer2016 .footercr .icon {vertical-align: -3px;margin-right: 2px;}
+    .footer2016 .icon_pol {background-position: 0 -22px;width: 18px;height: 20px;}
+    .footer2016 .footerlinks {background-color: #2F5895;height: 30px;text-align: center;line-height: 30px;}
+    .footer2016 .footerlinks a:link, .footer2016 .footerlinks a:visited, .footer2016 .footerlinks a:hover {color: #fff !important;text-decoration: none;margin: 0 14px;}
+    .footer2016 .footerbz {text-align: center;padding: 12px 0;}
+    .footer2016 .footerbz a {margin: 0 4px;}
+    .footer2016 .footer-police {background-position: 0 -112px;width: 110px;height: 40px;}
+    .footer2016 .footer-zx110 {background-position: -120px -113px;width: 110px;height: 40px;}
+    .footer2016 .footer-shjubao {background-position: 0 -172px;width: 110px;height: 40px;}
+    .footer2016 .footer-cxzx {background-position: -120px -174px;width: 40px;height: 40px;}
+    .footer2016 .footer-shgs {background-position: -180px -174px;width: 47px;height: 40px;}
+    .footer2016 .footer-12377 {background-position: 0 -54px;width: 186px;height: 40px;}
+    .footer2016 .footer-yhjb {background-position: 0 -229px;width: 123px;height: 40px;}
+    .footer2016 .footer-qrlast {width: 90px;}
+    .footer2016 .footer-icon-qihuoqr { background: url(https://emcharts.dfcfw.com/images/qihuoqr.png);width: 80px;height: 80px;display: inline-block;background-repeat: no-repeat;vertical-align: -5px;}
+</style>
+
+<div class="footer2016">
+    <div class="footertg">
+        <div class="qr">
+            <div class="t"><a href="http://acttg.eastmoney.com/pub/web_dfcfsy_dbtg_wzl_01_01_01_1" style="color:#000" target="_blank">东方财富</a></div>
+            <a href="http://acttg.eastmoney.com/pub/web_app_dcsy_2wm_01_01_01_0" target="_blank"><em class="icon icon_qrem80"></em></a><br />扫一扫下载APP
+        </div>
+
+        <div class="ftglist">
+            <div class="ftglistt">东方财富产品</div>
+            <ul>
+                <li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfwmfb_01_01_01_0" target="_blank">东方财富免费版</a></li>
+                <li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfwl2_01_01_01_0" target="_blank">东方财富Level-2</a></li>
+                <li><a href="http://js5.eastmoney.com/tg.aspx?ID=1483" target="_blank">投资大师</a></li>
+                <li><a href="http://js5.eastmoney.com/tg.aspx?ID=2749" target="_blank">Choice金融终端</a></li>
+                <li style="display: none;"><a href="http://www.langke.com/" target="_blank">浪客 - 财经视频</a></li>
+            </ul>
+        </div>
+        <div class="ftglist">
+            <div class="ftglistt">证券交易</div>
+            <ul>
+                <li><a href="https://acttg.eastmoney.com/pub/web_kh_dcsy_dbtkwzl_01_01_01_0" target="_blank">东方财富证券开户</a></li>
+                <li><a href="https://jy.xzsec.com/Trade/Buy" target="_blank">东方财富在线交易</a></li>
+				<li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfzqjy_01_01_01_0"  target="_blank">东方财富证券交易</a></li>
+            </ul>
+        </div>
+        <div class="ftglist">
+            <div class="ftglistt">关注东方财富</div>
+            <ul>
+                <li><a href="http://weibo.com/dfcfw" target="_blank"><em class="icon icon_wb"></em>东方财富网微博</a></li>
+                <li class="qrli"><a href="javascript:;" target="_self"><em class="icon icon_wx"></em>东方财富网微信</a><em class="icon icon_qr icon_emwxqr"></em></li>
+                <li><a href="http://corp.eastmoney.com/Lianxi_liuyan.asp" target="_blank"><em class="icon icon_note"></em>意见与建议</a></li>
+            </ul>
+        </div>
+        <div class="qr qrl">
+            <div class="t"><a href="http://acttg.eastmoney.com/pub/web_ttjjsy_dbtg_wzl_01_01_01_1" style="color:#000" target="_blank">天天基金</a></div>
+            <a href="http://js1.eastmoney.com/tg.aspx?ID=4672" target="_blank"><em class="icon icon_qrjj80"></em></a><br />扫一扫下载APP
+        </div>
+        <div class="ftglist">
+            <div class="ftglistt">基金交易</div>
+            <ul>
+                <li><a href="https://trade6.1234567.com.cn/reg/step1" target="_blank">基金开户</a></li>
+                <li><a href="https://trade.1234567.com.cn/login" target="_blank">基金交易</a></li>
+                <li><a href="http://huoqibao.1234567.com.cn/" target="_blank">活期宝</a></li>
+                <li><a href="http://fund.eastmoney.com/trade/default.html" target="_blank">基金产品</a></li>
+                <li><a href="http://fund.eastmoney.com/gslc/" target="_blank">稳健理财</a></li>
+            </ul>
+        </div>
+        <div class="ftglist">
+            <div class="ftglistt">关注天天基金</div>
+            <ul>
+                <li><a href="http://weibo.com/ttfund" target="_blank"><em class="icon icon_wb"></em>天天基金网微博</a></li>
+                <li class="qrli"><a href="javascript:;" target="_self"><em class="icon icon_wx"></em>天天基金网微信<em class="icon icon_qr icon_jjwxqr"></em></a></li>
+            </ul>
+        </div>
+        <div class="qr qrl footer-qrlast">
+            <div class="t"><a href="http://acttg.eastmoney.com/pub/web_dfcfqhsy_dbtg_wzl_01_01_01_1" style="color:#000" target="_blank">东方财富期货</a></div>
+            <a href="http://acttg.eastmoney.com/pub/web_kh_dcsy_dibudfcfqh_01_01_01_1" target="_blank"><em class="footer-icon-qihuoqr"></em></a><br>扫一扫下载APP
+        </div>
+        <div class="ftglist">
+            <div class="ftglistt">期货交易</div>
+            <ul>
+                <li><a href="http://acttg.eastmoney.com/pub/web_kh_dcsy_dibuqhsjkh_01_01_01_1" target="_blank">期货手机开户</a></li>
+                <li><a href="https://acttg.eastmoney.com/pub/web_kh_dcsy_dibudnkh_01_01_01_1" target="_blank">期货电脑开户</a></li>
+                <li><a href="http://acttg.eastmoney.com/pub/web_kh_dcsy_dibuqhgfwz_01_01_01_1" target="_blank">期货官方网站</a></li>
+            </ul>
+        </div>
+    </div>
+        <div class="footercr" style="padding-top:8px;">信息网络传播视听节目许可证：0908328号 经营证券期货业务许可证编号：913101046312860336 违法和不良信息举报:021-34289898 举报邮箱：<a target="_self" href="mailto:jubao@eastmoney.com">jubao@eastmoney.com</a></div>
+        <div class="footercr" style="padding-bottom:8px;">
+            <em class="icon icon_icp"></em>沪ICP证:沪B2-20070217 <a target="_blank" rel="nofollow" href="https://beian.miit.gov.cn/#/Integrated/index" style="color: #3F3F3F;text-decoration:none;">网站备案号:沪ICP备05006054号-11 </a> <a target="_blank" rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402000120" target="_blank" style="color: #3F3F3F;text-decoration:none;"><em class="icon icon_pol"></em>沪公网安备 31010402000120号</a> 版权所有:东方财富网 意见与建议:021-54509966/952500
+        </div>
+    <div class="footerlinks">
+			<a href="http://about.eastmoney.com" target="_blank" rel="nofollow">关于我们</a>
+			<a href="http://emhd2.eastmoney.com/market" target="_blank" rel="nofollow">广告服务</a>
+			<a href="http://about.eastmoney.com/home/contact" target="_blank" rel="nofollow">联系我们</a>
+			<a href="http://eastmoney.zhiye.com" target="_blank" rel="nofollow">诚聘英才</a>
+			<a href="http://about.eastmoney.com/home/disclaimer" target="_blank" rel="nofollow">免责声明</a>
+			<a href="http://about.eastmoney.com/home/legal" target="_blank" rel="nofollow">法律声明</a>
+            <a href="http://about.eastmoney.com/home/conceal" target="_blank" rel="nofollow">隐私保护</a>
+			<a href="http://about.eastmoney.com/home/parper" target="_blank" rel="nofollow">征稿启事</a>
+			<a href="http://www.zx110.org/cxs/index.html" target="_blank" rel="nofollow">放心搜</a>
+			<a href="http://about.eastmoney.com/home/links" target="_blank" rel="nofollow">友情链接</a>
+    </div>
+    <div class="footerbz">
+        <img src="//g1.dfcfw.com/g3/201905/20190531140719.png" title="亲爱的市民朋友，上海警方反诈劝阻电
+话“962110”系专门针对避免您财产被
+骗受损而设，请您一旦收到来电，立即
+接听。" style="vertical-align: bottom;">
+        <a rel="nofollow" href="http://www.cyberpolice.cn/" class="icon footer-police" title="上海网警网络110" target="_blank"></a>
+        <a rel="nofollow" href="http://www.zx110.org/" class="icon footer-zx110" title="网络社会征信网" target="_blank"></a>
+        <a rel="nofollow" href="http://www.shjbzx.cn/" class="icon footer-shjubao" title="上海违法和违规信息举报中心" target="_blank"></a>
+        <a rel="nofollow" href="http://www.12377.cn" class="icon footer-12377" title="中国互联网违法和不良信息举报中心" target="_blank"></a>
+	</div>
+</div>
+
+<script>
+    if(document.all && !window.XMLHttpRequest){
+        $(".qrli").hover(function(){
+            $(".icon_qr",this).show();
+        },function(){
+            $(".icon_qr",this).hide();
+        });
+    }
+</script>
+</body>
+</html>
+
