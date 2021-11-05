@@ -1,4 +1,4 @@
-# easymoney
+# eastmoney
  与东方财富相关的爬虫
 
 目前包括两个文件：
